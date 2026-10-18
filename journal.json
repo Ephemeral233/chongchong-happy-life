@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "memories": [
+    {
+      "id": "trip-vlad",
+      "type": "travel",
+      "title": "海参崴",
+      "place": "俄罗斯 · 海参崴",
+      "date": "",
+      "text": "",
+      "cover": "vlad",
+      "photos": [],
+      "caption": "俄罗斯这一趟，我们一起去的。"
+    },
+    {
+      "id": "trip-hohhot",
+      "type": "travel",
+      "title": "呼和浩特",
+      "place": "内蒙古 · 呼和浩特",
+      "date": "",
+      "text": "",
+      "cover": "hohhot",
+      "photos": [],
+      "caption": "呼和浩特，来过啦。"
+    },
+    {
+      "id": "trip-tianjin",
+      "type": "travel",
+      "title": "天津",
+      "place": "天津",
+      "date": "",
+      "text": "",
+      "cover": "tianjin",
+      "photos": [],
+      "caption": "天津的照片，都放这儿。"
+    },
+    {
+      "id": "trip-aranya",
+      "type": "travel",
+      "title": "阿那亚",
+      "place": "河北 · 阿那亚",
+      "date": "",
+      "text": "",
+      "cover": "aranya",
+      "photos": [],
+      "caption": "阿那亚这一站，慢慢补照片。"
+    },
+    {
+      "id": "food-salmon",
+      "type": "food",
+      "title": "粉虫虫最爱的三文鱼",
+      "place": "虫虫们的饭桌",
+      "date": "",
+      "text": "粉虫虫最喜欢吃三文鱼。绿虫虫陪着吃。",
+      "cover": "salmon",
+      "photos": [],
+      "caption": "今天吃三文鱼了吗？"
+    },
+    {
+      "id": "our-worms",
+      "type": "daily",
+      "title": "虫虫们，黏在一起",
+      "place": "我们俩",
+      "date": "",
+      "text": "绿虫虫和粉虫虫。\n没什么事，就是想黏着。",
+      "cover": "daily",
+      "photos": [
+        "assets/together.png",
+        "assets/green.png",
+        "assets/pink.png"
+      ],
+      "caption": "两只虫虫，挨得紧紧的。"
+    }
+  ],
+  "wishes": []
+}
